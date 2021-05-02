@@ -10,7 +10,8 @@ class App extends React.Component {
 
   render() {
     return (
-      <Router>
+      // basename for github
+      <Router basename={process.env.PUBLIC_URL}>
         <div className="app">
           <header>
             {<Header/>}
