@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-routing-app/static/css/main.fa926ed4.chunk.css",
+    "main.js": "/react-routing-app/static/js/main.8190ff66.chunk.js",
+    "main.js.map": "/react-routing-app/static/js/main.8190ff66.chunk.js.map",
+    "runtime-main.js": "/react-routing-app/static/js/runtime-main.a313c147.js",
+    "runtime-main.js.map": "/react-routing-app/static/js/runtime-main.a313c147.js.map",
+    "static/js/2.9071d69e.chunk.js": "/react-routing-app/static/js/2.9071d69e.chunk.js",
+    "static/js/2.9071d69e.chunk.js.map": "/react-routing-app/static/js/2.9071d69e.chunk.js.map",
+    "static/js/3.4d627ca8.chunk.js": "/react-routing-app/static/js/3.4d627ca8.chunk.js",
+    "static/js/3.4d627ca8.chunk.js.map": "/react-routing-app/static/js/3.4d627ca8.chunk.js.map",
+    "index.html": "/react-routing-app/index.html",
+    "static/css/main.fa926ed4.chunk.css.map": "/react-routing-app/static/css/main.fa926ed4.chunk.css.map",
+    "static/js/2.9071d69e.chunk.js.LICENSE.txt": "/react-routing-app/static/js/2.9071d69e.chunk.js.LICENSE.txt",
+    "static/media/img1.f7c99337.jpg": "/react-routing-app/static/media/img1.f7c99337.jpg",
+    "static/media/img2.a6a21278.jpg": "/react-routing-app/static/media/img2.a6a21278.jpg",
+    "static/media/img3.09bd944d.jpg": "/react-routing-app/static/media/img3.09bd944d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a313c147.js",
+    "static/js/2.9071d69e.chunk.js",
+    "static/css/main.fa926ed4.chunk.css",
+    "static/js/main.8190ff66.chunk.js"
+  ]
+}
